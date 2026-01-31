@@ -16,4 +16,5 @@ JOBS
   ✓ Complete job
 
 For more information about a job, try: gh run view --job=<job-id>
+
 View this run on GitHub: https://github.com/agomezr/ci-cd-final-project/actions/runs/21536032923
